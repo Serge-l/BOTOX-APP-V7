@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector(".hero-block__hero"),t=document.querySelector(".hero-block__navbar");e.classList.add("hero--on");const o=document.querySelector(".menu-btn");o.addEventListener("click",(()=>{o.classList.toggle("active"),t.classList.toggle("navbar--on")}))})();
